@@ -19,7 +19,7 @@ Hi, I’m Iandro aka @iandrorak, I'm a data scientist from Paris
 - 💞️ I’m looking to collaborate with other data science enthusiasts
 - 🎯 End of 2022 goal : contribute to Open Source projects 
 
-## Languages and Tools:
+## 🔧 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/small/279-2791029_python-icon-python-logo.png" style="padding-right:10px;" />
