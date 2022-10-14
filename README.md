@@ -23,7 +23,7 @@ Hi, I’m Iandro aka @iandrorak, I'm a data scientist from Paris
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://www.clipartmax.com/png/small/147-1470030_docker-for-arm-docker-image-icon-png.png" style="padding-right:10px;" />
-<img align="left" alt="TensorFlow" width="26px" src="https://img2.freepng.fr/20180408/jxw/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a963b52208.4587965815231655397419.jpg" style="padding-right:10px;" />
+<img align="left" alt="TensorFlow" width="26px" src="./src/tensorflow.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
