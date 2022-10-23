@@ -25,7 +25,7 @@ Hi, I’m Iandro aka @iandrorak, I'm a data scientist from Paris
 [<img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/small/279-2791029_python-icon-python-logo.png" style="padding-right:10px;" />](https://www.python.org/)
 [<img align="left" alt="TensorFlow" width="26px" src="./src/tensorflow.png" style="padding-right:10px;" />](https://www.tensorflow.org/)
 [<img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/48px-Windows_Terminal_logo.svg.png?20210811075510" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/windows/terminal/)
-<img align="left" alt="Docker" width="26px" src="https://www.clipartmax.com/png/small/147-1470030_docker-for-arm-docker-image-icon-png.png" style="padding-right:10px;" />
+[<img align="left" alt="Docker" width="26px" src="https://www.clipartmax.com/png/small/147-1470030_docker-for-arm-docker-image-icon-png.png" style="padding-right:10px;" />](https://www.docker.com/)
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
