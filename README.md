@@ -22,7 +22,7 @@ Hi, I’m Iandro aka @iandrorak, I'm a data scientist from Paris
 ## 🔧 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-<img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/small/279-2791029_python-icon-python-logo.png" style="padding-right:10px;" />
+[<img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/small/279-2791029_python-icon-python-logo.png" style="padding-right:10px;" />](https://www.python.org/)
 <img align="left" alt="TensorFlow" width="26px" src="./src/tensorflow.png" style="padding-right:10px;" />
 <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/48px-Windows_Terminal_logo.svg.png?20210811075510" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://www.clipartmax.com/png/small/147-1470030_docker-for-arm-docker-image-icon-png.png" style="padding-right:10px;" />
