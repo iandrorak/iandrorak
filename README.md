@@ -6,10 +6,8 @@
         </a>
     </div>
     <h1>
-        <p align="center">
-            <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=wave&color=gradient&height=100"/>
-            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-        </p>     
+        <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=wave&color=gradient&height=100"/>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>    
     </h1>
 </div>
 
