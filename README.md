@@ -17,7 +17,7 @@ Hi, I’m Iandro aka @iandrorak, I'm a data scientist from Paris
 
 - 👀 I’m interested in everything data science and AI
 - 💞️ I’m looking to collaborate with other data science enthusiasts
-- 📖 I'm currently training my coding skills.
+- 📖 I'm currently reviewing maths and training my coding skills.
 - 🎯 2023 goals : participate to at least 2 Kaggle challenges
 
 ## 🔧 Languages and Tools:
